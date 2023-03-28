@@ -24,12 +24,14 @@ Para este ejercicio, nuestra firma de analistas propone analizar los siguientes 
 * Salud
 
 <p align="center">
-<img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/Apple.png"  height=300>
+<img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/Marcas.png"  height=300>
 </p>
 
-
-
-
-
-
 <h1>Análisis Exploratorio de los datos (EDA)</h1>
+
+Para poder analizar el mercado bursátil, utilizamos las siguientes herramientas:
+
+* Yahoo Finance
+* Alphavantage
+
+Estas permitieron acceder a datos financieros que presentaremos en nuestro archivo de power BI :
