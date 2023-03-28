@@ -5,9 +5,9 @@ Proyecto Individual N°2
 Simularemos una situación en donde una empresa que busca invertir en el mercado bursátil le solicita analizarlo en detalle. Considerando que la empresa no conoce esta área financiera, le solicita una explicación de qué ha sucedido en este mercado en los últimos años (considerando impactos positivos y negativos a partir del año 2000), recomendaciones de inversión (ya sea enfocada en empresas o rubros de éstas) y otra información complementaria que, usted como experto en datos, está en capacidad de brindar.
 
 <h1>Contexto</h1>
-El desarrollo de este estudio se baso en el (índice bursátil) que recopila las 500 empresas más grandes de Estados Unidos. Este índice es desarrollado por la empresa Standard & Poor's denominado "S&P500". La elección de las compañías se basan en la capitalización bursatil y excluye las pequeñas y medianas empresas.
+El desarrollo de este estudio se basó en el (índice bursátil) que recopila las 500 empresas más grandes de Estados Unidos. Este índice es desarrollado por la empresa Standard & Poor's denominado "S&P500". La elección de las compañías se basan en la capitalización bursatil y excluye las pequeñas y medianas empresas.<br></br>
 
-Las empresas del "S&P500" se dividen en 11 sectores de la economía:
+Las empresas del "S&P500" se dividen en 11 sectores de la economía:<br>
 
 
 
