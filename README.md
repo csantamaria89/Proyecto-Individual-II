@@ -153,6 +153,7 @@ Las acciones de Netflix se desplomaron un 35% después de que la empresa revelar
 
 * Repetimos el proceso del grupo anterior para ver el histórico del precio de cierre para este grupo de compañias.
 
+El análisis de estas acciones corresponde al sector del Consumo Ocasional y Salud
 <p align="center">
 <img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/inversion2_1.png"  height=500>
 </p>
