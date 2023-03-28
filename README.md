@@ -34,4 +34,45 @@ Para poder analizar el mercado bursátil, utilizamos las siguientes herramientas
 * Yahoo Finance
 * Alphavantage
 
-Estas permitieron acceder a datos financieros que presentaremos en nuestro archivo de power BI :
+Estas permitieron acceder a datos financieros que presentaremos en nuestro archivo de power BI **Lab2.pbix**. 
+
+Antes de analizar puntualmente cada empresa, nos parece importante estudiar el comportamiento del índice para conocer su tendencía y saber si vale la pena invertir en cualquiera de las compañías que lo componen por supuesto con su previo análisis.
+
+1. Histórico correspondiente al precio de cierre del índice ***S&P500*** (2000 - 2023) 
+
+```shell
+empresas = ['GSPC']
+
+recolector =[]
+for nemo in empresas:
+    ticker =yf.Ticker(nemo)
+    px = ticker.history(start="2000-01-01", end="2023-03-27")['Close']
+    px.name = nemo
+
+    recolector += [px]
+
+precios = pd.concat(recolector, axis=1)
+```
+**Nota:** Este código guarda en un Data Frame los precios de cierre para el índice bursátil en un periodo del año 2000 al 2023
+
+<p align="center">
+<img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/GSPC.png"  height=300>
+</p>
+
+
+2. Precio de cierre de cada acción durante un periodo establecido:
+
+```shell
+empresas = ['AMZN','AAPL','INTC','MSFT','NFLX']
+
+recolector =[]
+for nemo in empresas:
+    ticker =yf.Ticker(nemo)
+    px = ticker.history(start="2000-01-01", end="2023-03-27")['Close']
+    px.name = nemo
+
+    recolector += [px]
+
+precios = pd.concat(recolector, axis=1)
+```
+**Nota:** Este código guarda en un Data Frame los precios de cierre de las diferentes acciones en un periodo del año 2000 al 2023
