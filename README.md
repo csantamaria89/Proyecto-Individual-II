@@ -32,7 +32,7 @@ Para este ejercicio, nuestra firma de analistas propone analizar los siguientes 
 Para poder analizar el mercado bursátil, utilizamos las siguientes herramientas:
 
 * Yahoo Finance
-* Alphavantage
+* Alpha Vantage
 
 Estas permitieron acceder a datos financieros que presentaremos en nuestro archivo de power BI **Lab2.pbix**. 
 
@@ -84,3 +84,41 @@ for nemo in empresas:
 precios = pd.concat(recolector, axis=1)
 ```
 **Nota:** Este código guarda en un Data Frame los precios de cierre de las diferentes acciones en un periodo del año 2000 al 2023
+
+Con el siguiente código obtenemos el precio de cierre de la acción del día anterior su valor y porcentaje de ganancia.
+
+```shell
+import pandas as pd
+import requests
+
+# API key de Alpha Vantage
+api_key = "YOUR KEY HERE"
+
+# Símbolo de la acción que queremos obtener
+symbol = "MCD"
+
+# URL para obtener los datos de la acción
+url = f"https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol={symbol}&apikey={api_key}"
+
+# Hacemos la petición HTTP GET
+response = requests.get(url)
+
+# Obtenemos los datos en formato JSON
+data = response.json()
+
+# Creamos un diccionario con los valores que queremos
+stock_info = {
+    "Last Price": data["Global Quote"]["05. price"],
+    "Change": data["Global Quote"]["09. change"],
+    "% Change": data["Global Quote"]["10. change percent"]
+}
+
+# Creamos el DataFrame
+df = pd.DataFrame(stock_info, index=[0])
+df.to_csv("Alpha_McDonalds.csv", index=False)
+```
+**Nota:** El código anterior se basa en la API de Alpha Vantage, para ello directamente en su plataforma se debe crear un Key para que permita el uso del código.
+<p align="center">
+<img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/inversion1.png"  height=500>
+</p>
+
