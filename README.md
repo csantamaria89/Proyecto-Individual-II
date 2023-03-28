@@ -122,3 +122,13 @@ df.to_csv("Alpha_McDonalds.csv", index=False)
 <img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/inversion1.png"  height=500>
 </p>
 
+De acuerdo con la imágen anterior podemos concluir que para las empresas analisadas, se evidencia que les afecto las crisis mencionadas anteriormente. Sin embargo, todas han tenido un crecimiento o por lo menos se han logrado estabilizar con las diferentes coyunturas que vive del país.
+
+🚨 Netflix: Puntualmente vemos un caso de tendencia bajista 📉 a finales del 2021 y 2022.
+
+Las acciones de Netflix se desplomaron un 35% después de que la empresa revelara una fuerte caída en los suscriptores, y advirtiera que millones más están listos para abandonar el servicio.
+- La compañía perdió más de US$50.000 millones de su valor en el mercado, ya que los expertos indicaron que enfrenta dificultades para volver a la normalidad.
+- Netflix afronta una intensa competencia por parte de sus rivales y también se vio afectada después de que subió los precios y se fue de Rusia.
+- Impulsar el crecu¿imiento de clientes con nuevo servicio gratuito con publicidad.
+- Se estima que más de 100 millones de hogares utilizan su servicio de manera ilegal.
+fuente:("https://www.bbc.com/mundo/noticias-61182426")
