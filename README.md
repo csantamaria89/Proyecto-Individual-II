@@ -153,7 +153,17 @@ Las acciones de Netflix se desplomaron un 35% después de que la empresa revelar
 
 * Repetimos el proceso del grupo anterior para ver el histórico del precio de cierre para este grupo de compañias.
 
-El análisis de estas acciones corresponde al sector del Consumo Ocasional y Salud
+El análisis de estas acciones corresponde al sector del Consumo Ocasional, Productos básicos de consumo y Salud
 <p align="center">
 <img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/inversion2_1.png"  height=500>
+</p>
+
+Con en análisis del gráfico, podemos identificar que a la empresa de Walmart (Productos básicos de consumo) y Moderna (Salud) no fueron afectadas por la pandemia y que por el contrario han tenido una tendencia alsista 📈 lo que representa un muy buen escenario para invertir.
+
+<h1>KPIs Conclusiones</h1>
+
+Con el análisis previo y el perfil de inversion conservador, podemos identificar fácilmente los acciones por las cuales podríamos invertir. A continuación se presentaran los siguientes KPIs para poder conluir que alternativas tenemos para invertir a corto o largo plazo.
+
+<p align="center">
+<img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/kpis.png"  height=500>
 </p>
