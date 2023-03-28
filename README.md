@@ -167,3 +167,18 @@ Con el análisis previo y el perfil de inversion conservador, podemos identifica
 <p align="center">
 <img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/kpis.png"  height=400>
 </p>
+
+***KPIs***
+
+1. **Market Cap** (Capitalización del Mercado): Valor total de las acciones en circulación de una empresa. </br>
+
+    Se calcula multiplicando el número de acciones en circulación sw una empresa por el precio actual de la acción. </br>
+    CAP = NÚMERO DE ACCIONES x PRECIO DE LA ACCIÓN </BR>
+    
+    El Market cap es un dato importante tanto para conocer el tamaño de la empresa como múltiplo para calcular diferentes ratios financieros. Además, se           utiliza esta cifra para determinar el tamaño de una empresa en lugar de usar el total de las ventas o los activos totales.</BR>
+    
+2. **Earnings per Share** EPS (Beneficio por Scción): Son los beneficios que le corresponden al accionista por cada acción.
+
+    EPS básico = (Beneficio neto-Dividendos de acciones preferentes)/(Media ponderada del número de acciones ordinarias en circulación)
+    
+    **Es necesario excluir la parte correspondiente a los accionistas preferentes.
