@@ -184,4 +184,4 @@ Con el análisis previo y el perfil de inversion conservador, podemos identifica
     
     **Es necesario excluir la parte correspondiente a los accionistas preferentes.
     
-3. **Range (52 Week)** Este indicador nos muestra el valor minimo y el máximo del precio de cierre de la acción durante las últimas 52 semanas. Con este valor podemos compararlo con el precio de cierre actual y tener un indicador que nos alerte si el precio de cierre actual esta más cerca del valor negatio o incluso a sobrepasado ese umbral o visceversa.
+3. **Range (52 Week)** Este indicador nos muestra el valor mínimo y el máximo del precio de cierre de la acción durante las últimas 52 semanas. Con este valor podemos compararlo con el precio de cierre actual y tener un indicador que nos alerte si el precio de cierre actual está más cerca del valor negativo o incluso ha sobrepasado ese umbral o viceversa.
