@@ -151,3 +151,4 @@ Las acciones de Netflix se desplomaron un 35% después de que la empresa revelar
 <img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/analisis2.png"  height=100>
 </p>
 
+* Repetimos el proceso del grupo anterior para ver el histórico del precio de cierre para este grupo de compañias.
