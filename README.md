@@ -165,5 +165,5 @@ Con en análisis del gráfico, podemos identificar que a la empresa de Walmart (
 Con el análisis previo y el perfil de inversion conservador, podemos identificar fácilmente los acciones por las cuales podríamos invertir. A continuación se presentaran los siguientes KPIs para poder conluir que alternativas tenemos para invertir a corto o largo plazo.
 
 <p align="center">
-<img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/kpis.png"  height=500>
+<img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/kpis.png"  height=400>
 </p>
