@@ -71,7 +71,7 @@ En general, el comportamiento del índice nos puede suponer una ventaja de inver
 <h1>Inversión 1</h1>
 
 <p align="center">
-<img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/analisis1.png"  height=300>
+<img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/analisis1.png"  height=100>
 </p>
 
 * Aplicamos el siguiente código para poder visualizar el valor de cierre de cada acción seleccionada durante un periodo establecido:
