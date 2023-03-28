@@ -9,7 +9,9 @@ El desarrollo de este estudio se basó en el (índice bursátil) que recopila la
 
 Las empresas del "S&P500" se dividen en 11 sectores de la economía:<br>
 
+<p align="center">
+<img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/TreeMap.png"  height=300>
+</p>
 
-
-Por otra parte, existe un tipo de fondos que solo invierten en empresas que se encuentran dentro de un índice bursátil. Este tipo de inversión se conoce como gestión pasiva al no tener que estudiar y elegir las empresas en las que invertir. La inversión a través de índices ofrece múltiples ventajas, como el hecho tener comisiones muy bajas que históricamente han permitido obtener rentabilidades muy interesantes.
+Esto permite a los inversionistas hacer un seguimiento no sólo del índice en su conjunto, sino también a las empresas dentro de las mismas indistrias. Esto facilita un mayor nivel de diversificación. Por otra parte, el índice "S&P500" nos brinda "Tranquilidad" al saber que estamos invirtiendo en empresas representativas de Estados Unidos. No obstante, es necesario hacer un análisis detallado que nos permita identificar ciertos comportamientos del mercado que indiquen si debemos invertir o no. 
 <h1>Análisis Exploratorio de los datos (EDA)</h1>
