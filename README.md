@@ -56,7 +56,7 @@ precios = pd.concat(recolector, axis=1)
 **Nota:** Este código guarda en un Data Frame los precios de cierre para el índice bursátil en un periodo del año 2000 al 2023
 
 <p align="center">
-<img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/GSPC.png"  height=500>
+<img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/GSPC1.png"  height=500>
 </p>
 
 
