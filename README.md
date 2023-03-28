@@ -59,8 +59,16 @@ precios = pd.concat(recolector, axis=1)
 <img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/GSPC1.png"  height=500>
 </p>
 
+En la imágen anterior, se puede evidenciar la tendencia alsista 📈 del índice *S&P500* a lo largo del tiempo, también se puede observar hitos importantes que describen tiempos de crisis. 
 
-2. Precio de cierre de cada acción durante un periodo establecido:
+- La recesión económica de 2008, conocida como la Gran Recesión, fue la fuerte caída de la actividad económica que comenzó en diciembre de 2007 y duró hasta junio de 2009.
+- Crisis económica por el Corona Virus.
+- Repercusión de la Pnademia, Inflación, Guerra.
+
+En general, el comportamiento del índice nos puede suponer una ventaja de inversión si analisamos el entorno y las crisis pues la inversion puede ser en cuanto a tendencias de crecimiento o caidas.
+
+
+2. Realizamos el mismo procedimiento para el cierre de cada acción seleccionada durante un periodo establecido:
 
 ```shell
 empresas = ['AMZN','AAPL','INTC','MSFT','NFLX']
