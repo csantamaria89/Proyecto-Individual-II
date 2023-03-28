@@ -38,7 +38,7 @@ Estas permitieron acceder a datos financieros que presentaremos en nuestro archi
 
 Antes de analizar puntualmente cada empresa, nos parece importante estudiar el comportamiento del índice para conocer su tendencía y saber si vale la pena invertir en cualquiera de las compañías que lo componen por supuesto con su previo análisis.
 
-1. Histórico correspondiente al precio de cierre del índice ***S&P500*** (2000 - 2023) 
+* Histórico correspondiente al precio de cierre del índice ***S&P500*** (2000 - 2023) 
 
 ```shell
 empresas = ['GSPC']
@@ -68,7 +68,13 @@ En la imágen anterior, se puede evidenciar la tendencia alsista 📈 del índic
 En general, el comportamiento del índice nos puede suponer una ventaja de inversión si analisamos el entorno y las crisis pues la inversion puede ser en cuanto a tendencias de crecimiento o caidas.
 
 
-2. Realizamos el mismo procedimiento para el cierre de cada acción seleccionada durante un periodo establecido:
+<h1>Inversión 1</h1>
+
+<p align="center">
+<img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/analisis1.png"  height=300>
+</p>
+
+* Aplicamos el siguiente código para poder visualizar el valor de cierre de cada acción seleccionada durante un periodo establecido:
 
 ```shell
 empresas = ['AMZN','AAPL','INTC','MSFT','NFLX']
@@ -118,19 +124,19 @@ df = pd.DataFrame(stock_info, index=[0])
 df.to_csv("Alpha_McDonalds.csv", index=False)
 ```
 **Nota:** El código anterior se basa en la API de Alpha Vantage, para ello directamente en su plataforma se debe crear un Key para que permita el uso del código.
+
+- El análisis de estas acciones corresponde al sector de *Tecnología de la información*, *Consumo ocasional* y *Servicios de comunicación* 
 <p align="center">
 <img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/inversion1.png"  height=500>
 </p>
 
 De acuerdo con la imágen anterior podemos concluir que para las empresas analisadas, se evidencia que les afecto las crisis mencionadas anteriormente. Sin embargo, todas han tenido un crecimiento o por lo menos se han logrado estabilizar con las diferentes coyunturas que vive del país.
 
-🚨 Netflix: Puntualmente vemos un caso de tendencia bajista 📉 a finales del 2021 y 2022.
+🚨**Netflix**: Puntualmente vemos un caso de tendencia bajista 📉 a finales del 2021 y 2022.
 
 <p align="center">
 <img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/Tnetflix.png"  height=400>
 </p>
-
-
 
 Las acciones de Netflix se desplomaron un 35% después de que la empresa revelara una fuerte caída en los suscriptores, y advirtiera que millones más están listos para abandonar el servicio.
 - La compañía perdió más de US$50.000 millones de su valor en el mercado, ya que los expertos indicaron que enfrenta dificultades para volver a la normalidad.
