@@ -23,6 +23,10 @@ Para este ejercicio, nuestra firma de analistas propone analizar los siguientes 
 * Consumo Ocasional
 * Salud
 
+<p align="center">
+<img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/Apple.png"  height=300>
+</p>
+
 
 
 
