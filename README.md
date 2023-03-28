@@ -13,5 +13,19 @@ Las empresas del "S&P500" se dividen en 11 sectores de la economía:<br>
 <img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/TreeMap.png"  height=300>
 </p>
 
-Esto permite a los inversionistas hacer un seguimiento no sólo del índice en su conjunto, sino también a las empresas dentro de las mismas indistrias. Esto facilita un mayor nivel de diversificación. Por otra parte, el índice "S&P500" nos brinda "Tranquilidad" al saber que estamos invirtiendo en empresas representativas de Estados Unidos. No obstante, es necesario hacer un análisis detallado que nos permita identificar ciertos comportamientos del mercado que indiquen si debemos invertir o no. 
+Esto permite a los inversionistas hacer un seguimiento no sólo del índice en su conjunto, sino también a las empresas dentro de las mismas indistrias. Esto facilita un mayor nivel de diversificación. Por otra parte, el índice "S&P500" nos brinda "Tranquilidad" al saber que estamos invirtiendo en empresas representativas de Estados Unidos. No obstante, es necesario hacer un análisis detallado que nos permita identificar ciertos comportamientos del mercado que indiquen si debemos invertir o no.</br>
+
+Para este ejercicio, nuestra firma de analistas propone analizar los siguientes sectores:
+
+* Tecnología de la Información
+* Servicios de Comunicación
+* Productos básicos de consumo
+* Consumo Ocasional
+* Salud
+
+
+
+
+
+
 <h1>Análisis Exploratorio de los datos (EDA)</h1>
