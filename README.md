@@ -135,7 +135,7 @@ De acuerdo con la imágen anterior podemos concluir que para las empresas analis
 🚨**Netflix**: Puntualmente vemos un caso de tendencia bajista 📉 a finales del 2021 y 2022.
 
 <p align="center">
-<img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/Tnetflix.png"  height=400>
+<img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/Tnetflix.png"  height=300>
 </p>
 
 Las acciones de Netflix se desplomaron un 35% después de que la empresa revelara una fuerte caída en los suscriptores, y advirtiera que millones más están listos para abandonar el servicio.
