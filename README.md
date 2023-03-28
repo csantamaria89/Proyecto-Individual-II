@@ -68,7 +68,7 @@ En la imágen anterior, se puede evidenciar la tendencia alsista 📈 del índic
 En general, el comportamiento del índice nos puede suponer una ventaja de inversión si analisamos el entorno y las crisis pues la inversion puede ser en cuanto a tendencias de crecimiento o caidas.
 
 
-<h1>Grupo uno de inversión</h1>
+<h1>Grupo Inversión 1</h1>
 
 <p align="center">
 <img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/analisis1.png"  height=100>
@@ -145,4 +145,9 @@ Las acciones de Netflix se desplomaron un 35% después de que la empresa revelar
 - Se estima que más de 100 millones de hogares utilizan su servicio de manera ilegal.</br>
 ***fuente:***("https://www.bbc.com/mundo/noticias-61182426")
 
-<h1>Grupo dos de inversión</h1>
+<h1>Grupo Inversión 2</h1>
+
+<p align="center">
+<img src="https://github.com/csantamaria89/Proyecto-Individual-II/blob/main/Im%C3%A1genes/analisis2.png"  height=100>
+</p>
+
