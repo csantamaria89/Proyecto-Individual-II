@@ -173,7 +173,8 @@ Con el análisis previo y el perfil de inversion conservador, podemos identifica
 1. **Market Cap** (Capitalización del Mercado): Valor total de las acciones en circulación de una empresa. </br>
 
     Se calcula multiplicando el número de acciones en circulación sw una empresa por el precio actual de la acción. </br>
-    CAP = NÚMERO DE ACCIONES x PRECIO DE LA ACCIÓN </BR>
+    
+    CAP = Número de Acciones x Precio de la Acción </BR>
     
     El Market cap es un dato importante tanto para conocer el tamaño de la empresa como múltiplo para calcular diferentes ratios financieros. Además, se           utiliza esta cifra para determinar el tamaño de una empresa en lugar de usar el total de las ventas o los activos totales.</BR>
     
@@ -182,3 +183,5 @@ Con el análisis previo y el perfil de inversion conservador, podemos identifica
     EPS básico = (Beneficio neto-Dividendos de acciones preferentes)/(Media ponderada del número de acciones ordinarias en circulación)
     
     **Es necesario excluir la parte correspondiente a los accionistas preferentes.
+    
+3. **Range (52 Week)** Este indicador nos muestra el valor minimo y el máximo del precio de cierre de la acción durante las últimas 52 semanas. Con este valor podemos compararlo con el precio de cierre actual y tener un indicador que nos alerte si el precio de cierre actual esta más cerca del valor negatio o incluso a sobrepasado ese umbral o visceversa.
