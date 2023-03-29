@@ -185,3 +185,20 @@ Con el análisis previo y el perfil de inversion conservador, podemos identifica
     **Es necesario excluir la parte correspondiente a los accionistas preferentes.
     
 3. **Range (52 Week)** Este indicador nos muestra el valor mínimo y el máximo del precio de cierre de la acción durante las últimas 52 semanas. Con este valor podemos compararlo con el precio de cierre actual y tener un indicador que nos alerte si el precio de cierre actual está más cerca del valor negativo o incluso ha sobrepasado ese umbral o viceversa.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Invertir dependerá del perfil de la persona o empresa. Hay perfiles conservadores, riesgosos, a corto plazo a largo plazo, etc. Es importante entender el perfil y a partir de allí analizar las diferentes opciones en el mercado búrsatil. 
+
+En este análisis, se propone invertir en (3) acciones de acuerdo con los KPIs evaluados. 
+
+`**Nota: Este análisis es netamente académico, se recomienda buscar una asesoría profesional para invertir.**`
+
+- **Amazon**: En este momento el ***EPS*** (Beneficios por acción) son negativos, lo cual indica que la compañia está generando pérdidas. Para un perfil conservador no recomendamos invertir ya que se presenta volatilidad y es incierto saber que pasará con el precio de la acción.
+
+- **Microsoft**: Esta empresa fue seleccionada ya que según los KPIs analizados y el comportamieto del precio de cierre a lo largo del tiempo muestra una empresa estable a largo plazo.
+
+- **Moderna**: Es importante identificar los momentos de crisis, moderna es una excelente alternativa de inversión en el corto plazo, ya que hay una nueva sepa del Corona Virus que necesitara de nuevas vacunas.
+
+- **Walmart**: Analizando el comportamiento del precio de la acción con respecto a todos los eventos que han afectado la economía americana a lo largo del tiempo, vemos claramente que está empresa tiene una tendencia alsista y que no le ha afectado ningún evento o crisis económica, por lo cual esta puede llegafr  a ser una inversión segura al largo plazo.
+
